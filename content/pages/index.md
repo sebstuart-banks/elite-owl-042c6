@@ -13,7 +13,7 @@ sections:
         style: secondary
     align: left
     image: /images/Linkedinprofilenew copy.png
-    image_alt: Hero placeholder image
+    image_alt: Seb Stuart-Banks
     image_position: right
     has_background: true
     background:
