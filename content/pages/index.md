@@ -15,7 +15,7 @@ sections:
     image: /images/Linkedinprofilenew copy.png
     image_alt: Hero placeholder image
     image_position: right
-    has_background: true
+    has_background: false
     background:
       background_color: blue
       background_image: images/diagonal-lines.svg
