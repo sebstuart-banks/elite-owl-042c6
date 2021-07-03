@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to my website
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'This is where you can find out about my interests, career, and hobbies.'
     actions:
       - label: Learn More
         url: /features
