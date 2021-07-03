@@ -90,7 +90,7 @@ seo:
       value: Seb Stuart-Banks
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: Welcome to my personal website.
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
