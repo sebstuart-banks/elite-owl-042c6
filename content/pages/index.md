@@ -14,7 +14,7 @@ sections:
     align: left
     image: /images/Linkedinprofilenew copy.png
     image_alt: Seb Stuart-Banks
-    image_position: right
+    image_position: left
     has_background: true
     background:
       background_color: blue
