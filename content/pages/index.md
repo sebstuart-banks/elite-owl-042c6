@@ -11,7 +11,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: right
+    align: center
     image: /images/Linkedinprofilenew copy.png
     image_alt: Seb Stuart-Banks
     image_position: right
