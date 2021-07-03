@@ -99,7 +99,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: Seb Stuart-Banks
     - name: 'twitter:description'
       value: Welcome to my personal website.
     - name: 'twitter:image'
