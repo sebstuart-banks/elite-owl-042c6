@@ -81,7 +81,7 @@ sections:
     background_color: gray
 seo:
   title: Seb Stuart-Banks
-  description: The preview of the Starter theme
+  description: Welcome to my personal website.
   extra:
     - name: 'og:type'
       value: website
