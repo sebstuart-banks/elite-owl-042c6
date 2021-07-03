@@ -101,7 +101,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Starter Theme
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Welcome to my personal website.
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
