@@ -22,7 +22,6 @@ sections:
     title: Our Team
     team:
       - content/data/team/miles-tone.yaml
-      - content/data/team/eleanor-carr.yaml
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
