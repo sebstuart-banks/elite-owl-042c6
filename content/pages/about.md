@@ -19,7 +19,7 @@ sections:
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
   - type: team_section
-    title: Our Team
+    title: m
     team:
       - content/data/team/miles-tone.yaml
   - type: cta_section
